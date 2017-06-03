@@ -27,6 +27,7 @@ stackoverflow-Java-top-qa
 #### 文档优化反馈：
 请大家多多反馈，优化已翻译好的文章：可以到[吐槽区](https://github.com/giantray/stackoverflow-java-top-qa/issues/66)吐槽，也可以在已翻译文章基础上进行优化，提新的PR。文章质量的提升，需要大家一起努力！
 
+### [汇总文件，包含所有已翻译问题](https://github.com/linpeiyou/stackoverflow-java-top-qa/blob/master/%E6%B1%87%E6%80%BB.md)
 
 ### 目录
 > 基础语法
