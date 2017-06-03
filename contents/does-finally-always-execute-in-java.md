@@ -1,4 +1,4 @@
-##问题
+## 问题
 
 有一个 try/catch 代码块，其中包含一个打印语句。finally代码块总会被执行么？
 
@@ -17,9 +17,9 @@ finally {
 }
 ```
 
-##回答
+## 回答
 
-1. ```finally``` 将会被调用。  
+1.```finally``` 将会被调用。  
    只有以下情况 ```finally``` 不会被调用：
 
  - 当你使用 ```System.exit()``` 后
@@ -28,7 +28,7 @@ finally {
 
  Answered by [Jodonnell](http://stackoverflow.com/users/4223/jodonnell), edited by [jpaugh](http://stackoverflow.com/users/712526/jpaugh).
 
-2. //示例代码
+2.示例代码
 
 ``` java
 class Test

@@ -61,15 +61,15 @@
   [1]: http://en.wikipedia.org/wiki/Word_wrap
   
   
-##解答二
+## 解答二
 
 我用Eclipse和Netbeans 8.0.2做了测试，他们的Java版本都是1.8；我用了`System.nanoTime()`来计时。
 
-##Eclipse：
+## Eclipse：
 
 我得到了**用时相同的结果** - 大约**1.564秒**。
 
-##Netbeans：
+## Netbeans：
 
 * 使用"#": **1.536秒**
 * 使用"B": **44.164秒**
@@ -104,7 +104,7 @@
 
 以此类推。
 
-##总结：
+## 总结：
 
 1. 使用Eclipse打印“B”完全没有问题
 1. Netbeans有换行的问题但是可以被解决（因为在Eclipse并没有这个问题）（而不用在B后面添加空格（“B ”））。

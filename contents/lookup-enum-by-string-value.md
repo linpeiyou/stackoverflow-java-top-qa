@@ -1,9 +1,9 @@
 Java 中如何将 String 转换为 enum
 =======
 
-###问题
+### 问题
 
-###我有一个 enum 类
+### 我有一个 enum 类
 
 ``` java 
 public enum Blah {
@@ -91,7 +91,7 @@ public static MyEnum fromString(String name) {
 
 _评论区对于答主的异常处理一片指责 -译者注_
 
-###A4
+### A4
 如果你不想编写自己的工具类,可以使用 Google的 `guava` 库:
 ``` java
 Enums.getIfPresent(Blah.class, "A")
