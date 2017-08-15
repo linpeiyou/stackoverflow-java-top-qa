@@ -9,6 +9,8 @@ stackoverflow-Java-top-qa
     对于参与翻译的人，这也是很好的一个学习、理解过程，欢迎大家一起来翻译
 
 -------------
+### [汇总文件，包含所有已翻译问题](https://github.com/linpeiyou/stackoverflow-java-top-qa/blob/master/%E6%B1%87%E6%80%BB/%E6%B1%87%E6%80%BB.md)
+
 ### 如何参与翻译（欢迎加入翻译组QQ群485011036）
 #### 如何参与：
 - 请从下文“待翻译问题链接”中寻找你感兴趣的问答进行翻译。翻译好的问答，放到contents目录下，无需更新readme.md文档。之后提一个PR，我负责合并PR并更新到readme中。
@@ -26,8 +28,6 @@ stackoverflow-Java-top-qa
 
 #### 文档优化反馈：
 请大家多多反馈，优化已翻译好的文章：可以到[吐槽区](https://github.com/giantray/stackoverflow-java-top-qa/issues/66)吐槽，也可以在已翻译文章基础上进行优化，提新的PR。文章质量的提升，需要大家一起努力！
-
-### [汇总文件，包含所有已翻译问题](https://github.com/linpeiyou/stackoverflow-java-top-qa/blob/master/%E6%B1%87%E6%80%BB.md)
 
 ### 目录
 > 基础语法
